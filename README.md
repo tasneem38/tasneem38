@@ -1,8 +1,5 @@
 # 💫 About Me:
-🔧 AI & Automation Developer — I build tools that streamline workflows and enhance productivity.
-🌐 Full-Stack & Data Enthusiast — Experienced with Python, SQL, React, Flask/Node, dashboards, and ML integrations.
-📚 Constant Learner — Currently exploring machine learning, AWS cloud, and multi-agent AI systems.
-🚀 Project-Driven Builder — I enjoy creating practical solutions, fast MVPs, and tools that genuinely make life easier.
+🔧 AI & Automation Developer — I build tools that streamline workflows and enhance productivity.  🌐 Full-Stack & Data Enthusiast — Experienced with Python, SQL, React, Flask/Node, dashboards, and ML integrations.  📚 Constant Learner — Currently exploring machine learning, AWS cloud, and multi-agent AI systems.  🚀 Project-Driven Builder — I enjoy creating practical solutions, fast MVPs, and tools that genuinely make life easier.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tasneem38_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tasneem-banu38) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sh29tasneem@gmail.com) 
