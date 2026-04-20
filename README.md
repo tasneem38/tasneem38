@@ -1,22 +1,26 @@
 # 👋 Hi, I'm Tasneem Banu
 
-### Software Engineer · Frontend Developer · Data Analytics Enthusiast
+### Full Stack Developer · React + FastAPI · Building real apps
 
-Computer Science undergraduate with hands-on internship experience in **frontend development** and **data analytics**. I enjoy building clean, user-friendly web applications and turning raw data into meaningful insights using **Python** and **SQL**.
+Computer Science undergraduate with hands-on experience building full-stack web applications using **React, Next.js, and FastAPI**. I enjoy developing scalable systems by combining clean, user-friendly frontend interfaces with efficient backend APIs and database integration.
 
 I’ve worked on real-world projects involving:
-- Responsive UI development  
-- Data cleaning and automation  
-- Dashboarding and reporting  
+- Full-stack application development (React + FastAPI)  
+- API design and backend integration  
+- Database management using PostgreSQL and MongoDB  
+- Building responsive and performance-optimized web interfaces  
 
-I’m comfortable collaborating in team environments and passionate about solving practical problems through technology.
+I’m comfortable working across the entire development stack and enjoy turning ideas into functional, real-world applications.
 
 ---
 
-## 🛠️ Skills
-- **Frontend:** React.js, JavaScript, HTML, CSS  
-- **Programming:** Python, SQL  
-
+## 🛠️ Skills  
+- **Programming:** Python, SQL
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
+- **Backend:** FastAPI, Node.js
+- **Database:** PostgreSQL, MongoDB
+- **Tools:** Git, Postman
+  
 ---
 
 ## 📍 Location
